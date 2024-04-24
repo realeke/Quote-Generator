@@ -4,6 +4,7 @@
 }
 body{
     background-color: burlywood;
+    height: 100vh;
 }
 @media only screen and (max-width = 600px) {
 
@@ -47,8 +48,8 @@ h1{
     font-family: sans-serif;
     font-size: 20px;
     text-align: center;
-    padding-top: 5rem;
-    padding-bottom: 5rem;
+    padding-top: 3rem;
+    padding-bottom: 2rem;
     font-size: 30px;
 }
 h3{
